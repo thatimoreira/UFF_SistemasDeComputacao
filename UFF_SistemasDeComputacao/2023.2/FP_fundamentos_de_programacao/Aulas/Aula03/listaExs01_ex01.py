@@ -1,10 +1,10 @@
-'''
-Beecrowd: 1049
-'''
+# Beecrowd: 1049
 
 c1 = input()
 c2 = input()
 c3 = input()
+
+animal = ""
 
 if c1 == "vertebrado":
     if c2 == "ave":

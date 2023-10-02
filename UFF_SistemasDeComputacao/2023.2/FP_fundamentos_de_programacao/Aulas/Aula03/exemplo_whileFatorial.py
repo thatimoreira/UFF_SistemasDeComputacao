@@ -6,4 +6,4 @@ fat = 1
 while i <= num:
     fat *= i
     i += 1
-print("O fatorial de %d é %d" %(num, fat))
+print("O fatorial de %d é %d" % (num, fat))

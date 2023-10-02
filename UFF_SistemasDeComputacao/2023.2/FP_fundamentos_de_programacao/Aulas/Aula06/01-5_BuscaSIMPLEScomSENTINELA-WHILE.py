@@ -10,9 +10,9 @@ def preencher(valores):
 def buscaElemento(valores, procurado):
     indice = 0
     while valores[indice] != procurado:
-            indice = indice + 1
-    if indice == len(valores)-1:
-            local = -1      # local do sentinela, informa que não achou
+        indice = indice + 1
+    if indice == len(valores) - 1:
+        local = -1  # local do sentinela, informa que não achou
     else:
         local = indice
     return local

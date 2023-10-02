@@ -1,6 +1,4 @@
-'''
-Beecrowd: 1064
-'''
+# Beecrowd: 1064
 positivos = 0
 somaPositivos = 0
 
@@ -12,5 +10,5 @@ for i in range(6):
 
 mediaPositivos = somaPositivos / positivos
 
-print("%d valores positivos" %positivos)
-print("%.1f" %mediaPositivos)
+print("%d valores positivos" % positivos)
+print("%.1f" % mediaPositivos)

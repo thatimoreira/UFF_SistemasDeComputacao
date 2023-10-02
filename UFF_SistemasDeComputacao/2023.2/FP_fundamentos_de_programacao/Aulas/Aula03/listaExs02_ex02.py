@@ -1,11 +1,11 @@
-'''
-Beecrowd: 1074
-'''
+# Beecrowd: 1074
 
 n = int(input())
 
 for i in range(n):
     num = int(input())
+
+    posNeg = ""
     
     if num == 0:
         print("NULL")

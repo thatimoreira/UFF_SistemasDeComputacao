@@ -1,6 +1,4 @@
-'''
-Beecrowd: 1114
-'''
+# Beecrowd: 1114
 
 password = 2002
 tentative = int(input())

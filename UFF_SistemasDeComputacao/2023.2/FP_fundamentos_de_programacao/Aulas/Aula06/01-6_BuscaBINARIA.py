@@ -15,7 +15,7 @@ def buscaElemento(valores, procurado):
         if procurado > valores[meio]:
             inicio = meio + 1
         else:
-            fim = meio -1
+            fim = meio - 1
         meio = (inicio + fim) // 2
     if procurado != valores[meio]:
         local = -1

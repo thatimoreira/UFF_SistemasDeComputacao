@@ -1,6 +1,4 @@
-'''
-Beecrowd: 1133
-'''
+# Beecrowd: 1133
 
 x = int(input())
 y = int(input())

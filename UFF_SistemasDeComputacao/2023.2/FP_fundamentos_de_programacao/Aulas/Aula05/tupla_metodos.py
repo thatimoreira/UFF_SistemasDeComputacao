@@ -9,4 +9,3 @@ valores = ("abacaxi", 500, 4.99, 500)
 print("   1resultado =", valores.index(500))         # imprime 1
 
 print()
-

@@ -1,6 +1,4 @@
-'''
-Beecrowd: 1151
-'''
+# Beecrowd: 1151
 
 n = int(input())
 

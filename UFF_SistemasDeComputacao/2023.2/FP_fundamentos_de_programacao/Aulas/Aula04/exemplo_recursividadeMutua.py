@@ -1,6 +1,4 @@
-'''
-Em alguns casos, pode ser necessário que dois subprogramas se chamem reciprocamente (recursividade mútua).
-'''
+# Em alguns casos, pode ser necessário que dois subprogramas se chamem reciprocamente (recursividade mútua).
 
 # Programa Completo
 
@@ -8,12 +6,14 @@ Em alguns casos, pode ser necessário que dois subprogramas se chamem reciprocam
 def flip(n):
     print("Flip")
     if n > 0:
-        flop(n-1)
-        
+        flop(n - 1)
+
+
 def flop(n):
     print("Flop")
     if n > 0:
-        flip(n-1)
+        flip(n - 1)
 
-# Programa Principal 
+
+# Programa Principal
 flip(5)

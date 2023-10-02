@@ -1,6 +1,4 @@
-'''
-Beecrowd: 1117
-'''
+# Beecrowd: 1117
 
 somaNotas = 0
 notaInvalida = 0

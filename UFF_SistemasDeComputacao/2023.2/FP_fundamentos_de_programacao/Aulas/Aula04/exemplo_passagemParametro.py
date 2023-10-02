@@ -1,11 +1,12 @@
-#Programa completo sem variáveis globais
+# Programa completo sem variáveis globais
 
 # Subprogramas
-def mult(x,y):
+def mult(x, y):
     z = 0
     for u in range(x):
         z = z + y
     return z
+
 
 # Programa Principal
 w = mult(20, 200) + 10

@@ -1,6 +1,4 @@
-'''
-Beecrowd: 1050
-'''
+# Beecrowd: 1050
 
 ddd = int(input())
 
